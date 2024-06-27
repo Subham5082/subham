@@ -1,2 +1,2 @@
 # subham
-to create that file read prepose 
+to create that file read prepose.
